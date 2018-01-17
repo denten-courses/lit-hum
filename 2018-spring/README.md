@@ -118,34 +118,38 @@ Introductions.
 
 ### Week 1
 
-- Luke & John
+- Gospel of Luke (~100 CE)
+- Gospel of John (~100 CE)
 
 ### Week 2
 
-- Dante Inferno
+- Augustine's *Confessions*, Books I-III, VI-VII, X-XI (400 CE)
 
 ### Week 3
 
-- A Hundred and One Nights
+- Selections from *A Hundred and One Nights* (900 - 1200 CE)
 
 ### Week 4
 
-- King Lear
+- Dante Inferno (~1300 CE)
 
 ### Week 5
 
-- Don Quixote
+- Don Quixote (~1600 CE)
 
 ### Week 6
 
-- Milton
+- Milton, *Paradise Lost* (~1600 CE)
 
 ### Week 7
 
-- Jane Austen
+- William Shakespeare, *Macbeth* (~1606 CE)
+
+Film screening of Kurosawa's *Throne of Blood*
+
 
 ### Week 8
-
+- Jane Austen
 - Dostoevsky
 
 ### Week 9
