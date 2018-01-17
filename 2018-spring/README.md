@@ -117,15 +117,49 @@ dean’s discipline for further institutional action.
 Introductions.
 
 ### Week 1
+
+- Luke & John
+
 ### Week 2
+
+- Dante Inferno
+
 ### Week 3
+
+- A Hundred and One Nights
+
 ### Week 4
+
+- King Lear
+
 ### Week 5
+
+- Don Quixote
+
 ### Week 6
+
+- Milton
+
 ### Week 7
+
+- Jane Austen
+
 ### Week 8
+
+- Dostoevsky
+
 ### Week 9
+
+- Woolf
+
 ### Week 10
+
 ### Week 11
+
 ### Week 12
+
+- *Invisible Man*, Ralph Ellison
+
 ### Week 13
+
+- Chinua Achebe’s *Things Fall Apart*
