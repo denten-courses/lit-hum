@@ -152,6 +152,11 @@ Film screening of Kurosawa's *Throne of Blood*
 
 - Voltaire, *Candide* (~1759)
 
+or
+
+- *The Life and Opinions of Tristram Shandy, Gentleman* by Lawrence Strene
+  (~1759)
+
 ### Week 9
 
 - *The Last Man* by Mary Shelley (1826)
