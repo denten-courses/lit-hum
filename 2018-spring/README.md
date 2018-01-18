@@ -131,15 +131,16 @@ Introductions.
 
 ### Week 4
 
-- Dante Inferno (~1300 CE)
+- *The Treatise of Kāmil on the Prophet's Biography*, Ibn al-Nafis (1260-70 CE)
 
 ### Week 5
 
-- Don Quixote (~1600 CE)
+- Selections from The Decameron by Giovanni Boccaccio (~1350 CE)
 
 ### Week 6
 
-- Milton, *Paradise Lost* (~1600 CE)
+- *The Horrible and Terrifying Deeds and Words of the Very Renowned Pantagruel
+  King of the Dipsodes, Son of the Great Giant Gargantua* (1532)
 
 ### Week 7
 
@@ -147,23 +148,30 @@ Introductions.
 
 Film screening of Kurosawa's *Throne of Blood*
 
-
 ### Week 8
-- Jane Austen
-- Dostoevsky
+
+- Voltaire, *Candide* (~1759)
 
 ### Week 9
 
-- Woolf
+- *The Last Man* by Mary Shelley (1826)
 
 ### Week 10
 
+- *Wuthering Heights*, Emily Brontë (1845)
+
 ### Week 11
+
+- “The Huntsman,” “A Boring Story,” “The Lady with the Little Dog” (~1900) by
+  Anton Chekhov
 
 ### Week 12
 
-- *Invisible Man*, Ralph Ellison
+- "The Story of an Hour" (1894) by Kate Chopin
+- *The Metamorphosis* (1915) by Franz Kafka
+- Selections from *The Ways of White Folks* (1934) by Langston Hughes (1934)
 
 ### Week 13
 
-- Chinua Achebe’s *Things Fall Apart*
+- Zora Neale Hurston, *Their Eyes Were Watching God* (1937)
+
