@@ -10,6 +10,8 @@ location: 613 Hamilton Hall
 
 ---
 
+Piazza link [here](https://piazza.com/class/ja7f7q80y1q2xs).
+
 > Lit Hum, as it is commonly known, is designed to enhance students’
 understanding of main lines of literary and philosophical development that
 have shaped western thought for nearly three millennia. Much more than a
