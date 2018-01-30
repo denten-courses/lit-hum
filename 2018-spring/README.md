@@ -129,11 +129,25 @@ Introductions.
 
 ### Week 3
 
-- Selections from *A Hundred and One Nights* (900 - 1200 CE)
+- *Arabian Nights*, [Prologue][31], "[The Story of the Three Apples][34]."
+- [*A Hundred and One Nights*][32] (900 - 1200 CE), "The Story of a Hundred
+and one Nights," "The Story of the Prince and Seven Viziers," "[The Tale of the
+Ebony Horse][33]," "The Story of the Vizier Ibn Abi l-Qamar and 'Abd al-Malik ibn
+Marwan."
+
+[31]: https://courseworks2.columbia.edu/courses/49230/files?preview=2344275
+[32]: https://courseworks2.columbia.edu/courses/49230/files?preview=2344274
+[33]: https://courseworks2.columbia.edu/courses/49230/files?preview=2344411
+[34]: https://courseworks2.columbia.edu/courses/49230/files?preview=2344411
 
 ### Week 4
 
-- *The Treatise of Kāmil on the Prophet's Biography*, Ibn al-Nafis (1260-70 CE)
+- Ibn Tufayl's [*Hayy Ibn Yaqzan: A Philosophical Tale*][42] (~1200)
+- Selections from [*The Treatise of Kāmil on the Prophet's Biography*][41], Ibn
+  al-Nafis (1260-70 CE).
+
+[41]: https://courseworks2.columbia.edu/courses/49230/files?preview=2344450
+[42]: https://courseworks2.columbia.edu/courses/49230/files?preview=2344620
 
 ### Week 5
 
