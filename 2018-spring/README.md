@@ -153,6 +153,8 @@ Marwan."
 
 - Selections from The Decameron by Giovanni Boccaccio (~1350 CE)
 
+Wednesday: Philologists' Walk
+
 ### Week 6
 
 - *The Horrible and Terrifying Deeds and Words of the Very Renowned Pantagruel
