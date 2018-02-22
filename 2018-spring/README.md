@@ -151,14 +151,17 @@ Marwan."
 
 ### Week 5
 
-- Selections from The Decameron by Giovanni Boccaccio (~1350 CE)
+- Assigned selections from *The Decameron* (~1350 CE) by Giovanni Boccaccio.
 
 Wednesday: Philologists' Walk
 
 ### Week 6
 
-- *The Horrible and Terrifying Deeds and Words of the Very Renowned Pantagruel
-  King of the Dipsodes, Son of the Great Giant Gargantua* (1532)
+- [Book I][61] in *The Horrible and Terrifying Deeds and Words of the Very Renowned Pantagruel
+  King of the Dipsodes, Son of the Great Giant Gargantua* (1532) by François Rabelais.
+- Book I in *Don Quixote* (1605) by Miguel de Cervantes.
+  
+  [61]: https://courseworks2.columbia.edu/courses/49230/files?preview=2488722
 
 ### Week 7
 
