@@ -159,7 +159,7 @@ Wednesday: Philologists' Walk
 
 - [Book I][61] in *The Horrible and Terrifying Deeds and Words of the Very Renowned Pantagruel
   King of the Dipsodes, Son of the Great Giant Gargantua* (1532) by François Rabelais.
-- Book I in *Don Quixote* (1605) by Miguel de Cervantes.
+- Part I in *Don Quixote* (1605) by Miguel de Cervantes.
   
   [61]: https://courseworks2.columbia.edu/courses/49230/files?preview=2488722
 
