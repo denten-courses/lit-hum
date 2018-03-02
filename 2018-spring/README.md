@@ -165,7 +165,9 @@ Wednesday: Philologists' Walk
 
 ### Week 7
 
-- William Shakespeare, *Macbeth* (~1606 CE)
+- William Shakespeare,
+  [*Macbeth*][https://courseworks2.columbia.edu/courses/49230/files?preview=2537657]
+(~1606 CE)
 
 Film screening of Kurosawa's *Throne of Blood*
 
