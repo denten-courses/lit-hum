@@ -174,8 +174,8 @@ Film screening of Kurosawa's *Throne of Blood*
 ### Week 8
 
 - Voltaire, *Candide* (~1759)
-- Volume I from *The Life and Opinions of Tristram Shandy, Gentleman* by
-  Lawrence Sterne (1759)
+- ~Volume I from *The Life and Opinions of Tristram Shandy, Gentleman* by
+  Lawrence Sterne (1759)~
 
 ### Week 9
 
