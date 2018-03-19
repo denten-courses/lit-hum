@@ -179,7 +179,7 @@ Film screening of Kurosawa's *Throne of Blood*
 
 ### Week 9
 
-- *The Last Man* by Mary Shelley (1826)
+- *Frankenstein* by Mary Shelley (1818)
 
 ### Week 10
 
