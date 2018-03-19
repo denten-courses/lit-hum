@@ -169,7 +169,7 @@ Wednesday: Philologists' Walk
   [*Macbeth*](https://courseworks2.columbia.edu/courses/49230/files?preview=2537657)
 (~1606 CE)
 
-Film screening of Kurosawa's *Throne of Blood*
+Film screening of Kurosawa's *Throne of Blood* on Wednesday, 03/21
 
 ### Week 8
 
