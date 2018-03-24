@@ -153,14 +153,14 @@ Marwan."
 
 - Assigned selections from *The Decameron* (~1350 CE) by Giovanni Boccaccio.
 
-Wednesday: Philologists' Walk
+Philologists' Walk on Wednesday.
 
 ### Week 6
 
 - [Book I][61] in *The Horrible and Terrifying Deeds and Words of the Very Renowned Pantagruel
   King of the Dipsodes, Son of the Great Giant Gargantua* (1532) by François Rabelais.
 - Part I in *Don Quixote* (1605) by Miguel de Cervantes.
-  
+
   [61]: https://courseworks2.columbia.edu/courses/49230/files?preview=2488722
 
 ### Week 7
@@ -176,6 +176,9 @@ Film screening of Kurosawa's *Throne of Blood* on Wednesday, 03/21
 - Voltaire, [*Candide*](https://archive.org/download/Candide_887/Candide_by_Voltaire_cropped.pdf) (~1759)
 - ~Volume I from *The Life and Opinions of Tristram Shandy, Gentleman* by
   Lawrence Sterne (1759)~
+
+Midterm assignment due by midnight on March 30th. Follow the instructions
+[here](https://github.com/denten-courses/lit-hum/wiki/Instructions).
 
 ### Week 9
 
@@ -199,4 +202,7 @@ Film screening of Kurosawa's *Throne of Blood* on Wednesday, 03/21
 ### Week 13
 
 - Zora Neale Hurston, *Their Eyes Were Watching God* (1937)
+
+Final assignment due by midnight on April 30th. Follow the instructions
+[here](https://github.com/denten-courses/lit-hum/wiki/Instructions).
 
