@@ -182,25 +182,38 @@ Midterm assignment due by midnight on March 30th. Follow the instructions
 
 ### Week 9
 
-- *Frankenstein* by Mary Shelley (1818)
+- [*Frankenstein: Or, The Modern Prometheus*][91]* by Mary Shelley (1818).
+
+[91]: https://archive.org/download/frankensteinorm02shelgoog/frankensteinorm02shelgoog.pdf
 
 ### Week 10
 
-- *Wuthering Heights*, Emily Brontë (1845)
+- [*Wuthering Heights*][101], Emily Brontë (1845).
+
+[101]: https://archive.org/download/wutheringheight01brongoog/wutheringheight01brongoog.pdf
 
 ### Week 11
 
+- Nikolai Gogol, "The Mantle" (Overcoat), "The Nose" (~1830s) found [in this
+  volume][112].
 - “The Huntsman,” “A Boring Story,” “The Lady with the Little Dog” (~1900) by
-  Anton Chekhov
+  Anton Chekhov. Please procure [this translation][111].
+
+[111]: https://www.amazon.com/Selected-Stories-Anton-Chekhov-ebook/dp/B0030CMK6M/ref=sr_1_1?ie=UTF8&qid=1522619762&sr=8-1&keywords=Volokhonsky+chekhov&dpID=51Hw4%252BqGKFL&preST=_SY445_QL70_&dpSrc=srch
+[112]: https://archive.org/details/mantleotherstori00gogorich
 
 ### Week 12
 
-- "The Story of an Hour" (1894) by Kate Chopin
-- *The Metamorphosis* (1915) by Franz Kafka
-- Selections from *The Ways of White Folks* (1934) by Langston Hughes (1934)
+- "The Dream of an Hour" by Kate Chopin, in *[Vogue][121]* Vol. 4, Issue 23,
+  (Dec 6, 1894). Read the context as well.
+- *[The Metamorphosis][122]* (1915) by Franz Kafka
+
+[121]: https://search-proquest-com.ezproxy.cul.columbia.edu/publicationissue/1C033CEBA538496APQ/$B/1/Vogue$3b+New+York/01894Y12Y06$23Dec+6,+1894$3b++Vol.+4+$2823$29/$N?accountid=10226
+[122]: https://www.gutenberg.org/files/5200/5200-h/5200-h.htm
 
 ### Week 13
 
+- Selections from *The Ways of White Folks* (1934) by Langston Hughes (1934)
 - Zora Neale Hurston, *Their Eyes Were Watching God* (1937)
 
 Final assignment due by midnight on April 30th. Follow the instructions
