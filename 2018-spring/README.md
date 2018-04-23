@@ -208,7 +208,7 @@ Midterm assignment due by midnight on March 30th. Follow the instructions
   (Dec 6, 1894). Read the context as well.
 - *[The Metamorphosis][122]* (1915) by Franz Kafka
 
-[121]: https://search-proquest-com.ezproxy.cul.columbia.edu/publicationissue/1C033CEBA538496APQ/$B/1/Vogue$3b+New+York/01894Y12Y06$23Dec+6,+1894$3b++Vol.+4+$2823$29/$N?accountid=10226
+[121]: https://search-proquest-com.ezproxy.cul.columbia.edu/vogue/browseissues
 [122]: https://www.gutenberg.org/files/5200/5200-h/5200-h.htm
 
 ### Week 13
