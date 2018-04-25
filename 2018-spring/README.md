@@ -213,9 +213,12 @@ Midterm assignment due by midnight on March 30th. Follow the instructions
 
 ### Week 13
 
-- Selections from *The Ways of White Folks* (1934) by Langston Hughes (1934)
-- Zora Neale Hurston, *Their Eyes Were Watching God* (1937)
+- ~~Selections from *The Ways of White Folks* (1934) by Langston Hughes
+(1934)~~
+- Zora Neale Hurston, [*Their Eyes Were Watching God*][131] (1937)
 
-Final assignment due by midnight on April 30th. Follow the instructions
+[131]: https://courseworks2.columbia.edu/courses/49230/files?preview=2798090
+
+Final assignment due by midnight on May 13th. Follow the instructions
 [here](https://github.com/denten-courses/lit-hum/wiki/Instructions).
 
