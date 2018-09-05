@@ -10,7 +10,7 @@ location: Hamilton Hall, Room 318
 
 ---
 
-Piazza link [here](https://piazza.com/class/jlicpsbxjmaxm).
+Piazza link [here](https://piazza.com/class/jlicpsbxjmaxm). 
 
 > Lit Hum, as it is commonly known, is designed to enhance students’
 understanding of main lines of literary and philosophical development that
@@ -51,6 +51,8 @@ embodied in our texts. We aim for a critical discussion, one that at the same
 time preserves the multiplicity of voices present in the classroom. Listen as
 much as you speak, be respectful of dissenting voices, enter into a dialogue
 rather than a soliloquy, show empathy, respond, and encourage others to speak.
+
+Online forum responses are due weekly on Tuesday at midnight.
 
 ## Policies
 
@@ -108,12 +110,12 @@ Homer, *Iliad*
 Homer, *Odyssey*
 
 ### Week 4
+
 Homer, *Odyssey*
 
-
 ### Week 5
-*Genesis*, *Job*, *Song of Solomon*
 
+*Genesis*, *Job*, *Song of Solomon*
 
 ### Week 6
 
@@ -121,6 +123,7 @@ Herodotus, Selections from the *Histories*
 
 ### Week 7
 
+Sappho, *Lyrics*
 Aeschylus, *Oresteia*
 
 ### Week 8
