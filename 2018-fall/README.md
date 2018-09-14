@@ -10,6 +10,7 @@ location: Hamilton Hall, Room 318
 
 ---
 
+Office hours: F11-1pm
 Piazza link [here](https://piazza.com/class/jlicpsbxjmaxm). 
 
 > Lit Hum, as it is commonly known, is designed to enhance students’
