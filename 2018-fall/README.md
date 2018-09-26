@@ -116,7 +116,7 @@ Homer, *Odyssey*
 
 ### Week 5
 
-Aeschylus, *Oresteia*
+Aeschylus, *Oresteia*  
 Sappho, *Lyrics*
 
 ### Week 6
