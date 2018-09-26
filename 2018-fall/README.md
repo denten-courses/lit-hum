@@ -112,20 +112,20 @@ Homer, *Odyssey*
 
 ### Week 4
 
-Homer, *Odyssey*
+Homer, *Odyssey*  
 
 ### Week 5
 
-*Genesis*, *Job*, *Song of Solomon*
+Aeschylus, *Oresteia*
+Sappho, *Lyrics*
 
 ### Week 6
 
-Herodotus, Selections from the *Histories*
+*Genesis*, *Job*, *Song of Solomon*
 
 ### Week 7
 
-Sappho, *Lyrics*
-Aeschylus, *Oresteia*
+Herodotus, Selections from the *Histories*
 
 ### Week 8
 
